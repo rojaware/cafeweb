@@ -1,5 +1,7 @@
 # cafeweb
 
+Cafe membership database application provide Java web based CRUD service with MySQL database. 
+
 # how to create new repo from local source
 Create the remote repository, and get the URL such as  https://github.com/rojaware/cafeweb.git
 
